@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 hello okja!!!
 Bong Jun Ho0!!!
 2nd
+=======
+Hello
+I am a boy
+you are a girl
+====================================
+How are you!!!
+>>>>>>> test
